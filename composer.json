@@ -22,7 +22,7 @@
         "ext-pdo_sqlite": "*",
         "ext-sodium": "*",
         "monolog/monolog": "^3.2",
-        "vtardia/simphle-values": "^1"
+        "vtardia/simphle-values": "dev-main"
     },
     "require-dev": {
         "roave/security-advisories": "dev-latest",
